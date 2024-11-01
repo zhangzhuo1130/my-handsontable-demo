@@ -19,10 +19,10 @@ export const columnConfigs = {
         checkedTemplate: "Y",
         uncheckedTemplate: "N"
     },
-    "71": {
+    "17": {
         require: false,
         type: "autocomplete",
-        source: ["CNY", "NY"]
+        source: ["CNY", "NY","CNY1", "NY1"]
     }
 };
 
